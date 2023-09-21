@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        "manrope-500": ["Manrope", "sans-serif"],
+        manrope: ["Manrope", "sans-serif"],
       },
     },
   },
