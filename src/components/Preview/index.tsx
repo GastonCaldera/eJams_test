@@ -37,7 +37,7 @@ function PreviewBox() {
             12 left in Stock
           </p>
         </div>
-        <div className="flex mb-3 hidden md:inline">
+        <div className="flex mb-3 max-xl:hidden inline">
           <p className="text-[##4D5254] text-base font-normal font-manrope">
             Simply plug a Clarifion into any standard outlet and replace bulky,
             expensive air purifiers with a simple.
